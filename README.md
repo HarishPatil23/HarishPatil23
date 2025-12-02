@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 👋 Hi, I'm Harish Patil!<br><br>- 🎯 Preparing for **Business Analyst / Data Analyst** roles  <br>- 📍 Non-tech background → transitioning into **Analytics & Data Skills**  <br>- 🧠 Currently learning: **Python, SQL, Power BI, Advanced Excel**  <br>- 🤖 Interested in exploring **AI, ML, DL, NLP** as long-term growth areas  <br>- 💼 4 years experience as a **Data Analyst/Technical Recruiter**  <br>- 💡 Consistent learner focused on building strong analytical foundations  <br>- 📊 Enjoy solving SQL problems, analyzing datasets, and building dashboards  <br>- 🌱 Working on end-to-end analytics projects to strengthen my portfolio  <br>- ✨ Open to collaborating on beginner-friendly data & analytics projects  <br>
-
+---
 [![](https://visitcount.itsvg.in/api?id=HarishPatil23&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 ## 🌐 Socials:

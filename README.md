@@ -54,7 +54,7 @@ To work in a data-driven environment where analytical thinking and business cont
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-patil23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mepatilharish@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-patil23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishgowdapatil23@gmail.com) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HarishPatil23&icon=0&color=0)](https://visitcount.itsvg.in)

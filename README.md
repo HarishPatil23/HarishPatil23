@@ -2,25 +2,24 @@
 
 ### Harish Patil
 
-Aspiring **Data Analyst** with a background in **US Technical Recruitment**, where working with hiring metrics and reporting sparked a strong interest in **data analysis and analytics**. Currently developing skills in **data processing, analysis, and visualization** to derive meaningful insights from data.
+Data professional with 4 years of experience in a fast-paced staffing environment, with a growing focus on data analytics and business intelligence.
 
-I actively build **end-to-end analytics projects** involving data cleaning, transformation, SQL analysis, and interactive dashboards to demonstrate practical **data-driven problem solving**.
+My background in US Technical Recruitment — working closely with hiring metrics, pipelines, and client data — sparked a genuine interest in analytics and data-driven decision-making. I build end-to-end analytics projects spanning data cleaning, SQL analysis, data modeling, and interactive Power BI dashboards, focused on solving real business problems rather than just demonstrating tools.
 
-### Core Skills
-- **Data Analysis:** SQL, Python (Pandas), Advanced Excel  
-- **Data Visualization:** Power BI  
-- **Data Handling:** Data Cleaning, Transformation, Exploratory Data Analysis (EDA)  
-- **Analytical Skills:** Business problem solving, KPI analysis, reporting  
+### 🛠 Core Skills
+- **Data Analysis:** SQL (MySQL), Python (Pandas, NumPy, Matplotlib, Seaborn), Excel
+- **Data Visualization:** Power BI (DAX)
+- **Concepts:** Data Modeling, Star Schema, Medallion Architecture, EDA, ETL
+- **Workflow:** Jupyter, VS Code, Git/GitHub
 
-### Current Focus
+### 🔨 Current Focus
 - Strengthening **Python for data analysis**
 - Building **portfolio-ready analytics projects**
 - Improving **SQL querying and data modeling skills**
 
-### Career Goal
-To work in a **data-driven environment** where I can apply analytical thinking, extract insights from data, and contribute to **business decision-making**.
+### 🎯 Goal
+To work in a data-driven environment where analytical thinking and business context combine to generate actionable insights.
 
-🚀 Long-term interest in expanding into **Data Science, Machine Learning, and AI**.
 
 ---
 # 💻 Tech Stack:

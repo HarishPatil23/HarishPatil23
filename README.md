@@ -4,7 +4,7 @@
 
 Data professional with 4 years of experience in a fast-paced staffing environment, with a growing focus on data analytics and business intelligence.
 
-My background in US Technical Recruitment — working closely with hiring metrics, pipelines, and client data — sparked a genuine interest in analytics and data-driven decision-making. I build end-to-end analytics projects spanning data cleaning, SQL analysis, data modeling, and interactive Power BI dashboards, focused on solving real business problems rather than just demonstrating tools.
+My background in US Technical Recruitment - working closely with hiring metrics, pipelines, and client data - sparked a genuine interest in analytics and data-driven decision-making. I build end-to-end analytics projects spanning data cleaning, SQL analysis, data modeling, and interactive Power BI dashboards, focused on solving real business problems rather than just demonstrating tools.
 
 ### 🛠 Core Skills
 - **Data Analysis:** SQL (MySQL), Python (Pandas, NumPy, Matplotlib, Seaborn), Excel

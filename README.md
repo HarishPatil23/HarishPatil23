@@ -2,6 +2,8 @@
 
 ### Harish Patil
 
+![Profile Views](https://komarev.com/ghpvc/?username=HarishPatil23&color=blue)
+
 Data professional with 4 years of experience in a fast-paced staffing environment, with a growing focus on data analytics and business intelligence.
 
 My background in US Technical Recruitment - working closely with hiring metrics, pipelines, and client data - sparked a genuine interest in analytics and data-driven decision-making. I build end-to-end analytics projects spanning data cleaning, SQL analysis, data modeling, and interactive Power BI dashboards, focused on solving real business problems rather than just demonstrating tools.
@@ -57,5 +59,5 @@ To work in a data-driven environment where analytical thinking and business cont
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-patil23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harishgowdapatil23@gmail.com) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarishPatil23&icon=0&color=0)](https://visitcount.itsvg.in)
+
 

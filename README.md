@@ -49,9 +49,7 @@ To work in a data-driven environment where analytical thinking and business cont
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HarishPatil23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarishPatil23&theme=dark&hide_border=false)<br/>
-![](https://streak-stats.demolab.com/?user=HarishPatil23&theme=dark&hide_border=false)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarishPatil23&theme=dark&hide_border=false)
 
 ---
 

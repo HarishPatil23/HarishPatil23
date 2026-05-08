@@ -4,9 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarishPatil23&color=blue)
 
-Data professional with 4 years of experience in a fast-paced staffing environment, with a growing focus on data analytics and business intelligence.
+Data professional with experience in fast-paced business environments, with a strong focus on data analytics and business intelligence.
 
-My experience as a Data Analyst in a US technical recruitment environment involved working extensively with hiring metrics, pipeline data, and client reporting. This exposure led me to develop strong analytical skills and a deep interest in data-driven decision-making. I have since built end-to-end analytics solutions involving data cleaning, SQL-based analysis, data modeling, and interactive Power BI dashboards, focused on solving real business problems and delivering actionable insights.
+Skilled in working with business data, KPI tracking, reporting, and dashboard development to support data-driven decision-making. Built end-to-end analytics solutions involving data cleaning, SQL-based analysis, data modeling, ETL workflows, and interactive Power BI dashboards focused on solving real business problems and delivering actionable insights.
 
 ### 🛠 Core Skills
 - **Data Analysis:** SQL (MySQL), Python (Pandas, NumPy, Matplotlib, Seaborn), Excel
